@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlowForge - HR Workflow Designer
 
 A modern, industrial-style visual workflow designer for HR processes. Built with React, React Flow, and Tailwind CSS.
@@ -90,3 +91,6 @@ The simulation engine (`src/lib/api.ts`) performs a topological sort on the grap
 ---
 
 *Built as a prototype for HR Workflow Designer assignment.*
+=======
+# Tredence-assignment
+>>>>>>> 7c0608cd474aa777cb9893a795517da52f434a6c
