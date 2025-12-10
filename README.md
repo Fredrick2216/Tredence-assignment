@@ -3,8 +3,8 @@
 
 A modern, industrial-style visual workflow designer for HR processes. Built with React, React Flow, and Tailwind CSS.
 
-![FlowForge Preview](<img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/c8b33fe1-2f87-4ffc-82a0-679346d88c1c" />
-)
+<img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/c8b33fe1-2f87-4ffc-82a0-679346d88c1c" />
+
 
 ## 🚀 Overview
 
